@@ -1,2 +1,4 @@
 # code-challenges
-- [Thousands Separator](thousands-separator/solution.py)
+- [Show Thousands Separator](thousands-separator/solution.py)
+- [Largest Sum Contiguous Subarray](largest-sum-contiguous-subarray/solution.py)
+- 
