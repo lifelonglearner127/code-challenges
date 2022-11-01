@@ -3,3 +3,6 @@ Input: N = 47634
 Output: 47, 634
 Input: N = 1000000
 Output : 1, 000, 000
+
+Solutions
+ - [Python](solution.py)
