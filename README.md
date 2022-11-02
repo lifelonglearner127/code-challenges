@@ -6,8 +6,20 @@
   - [Sort an Array of 0,1,2](sort-012/ReadMe.md)
   - [Equilibrium Point](equilibrium-point/ReadMe.md)
   - [Maximum Sum Increasing Subsequence](maximum-sum-increasing-subsequence/ReadMe.md)
+  - [Leaders in the Array](leaders-in-the-array/ReadMe.md)
+  - [Kth Smallest Element](kth-smallest/ReadMe.md)
+  - [Trapping Rain Water](trapping-rain-water/ReadMe.md)
+  - [Pythagorean Triplet in Array](pythagorean-triplet/ReadMe.md)
+  - [Chocolate Distribution Problem](chocolate-distribution/ReadMe.md)
+  - [Stock Maximize](stock-maximize/ReadMe.md)
+  - [Pair of elements in an array whose sum equals a target](sum-equals-target/ReadMe.md)
+  - [Intersection of two sorted arrays](intersection-two-sorted-arrays/ReadMe.md)
 - String
-
+  - [Valid Parentheses](valid-parentheses/ReadMe.md)
+  - [Reverse Words in String](reverse-words-in-string/ReadMe.md)
+  - [Print All Permutations of given string](permuatations/ReadMe.md)
+  - [Generate Strong Password](generate-password/ReadMe.md)
+- 
 - Numbers
   - [Show Thousands Separator](thousands-separator/ReadMe.md)
   
